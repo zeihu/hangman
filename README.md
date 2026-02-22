@@ -3,12 +3,12 @@
 
 Hello, this is a simple text-based hangman game that you can run from your terminal!
 
-###To play the game:
+### To play the game:
 - Save the hangman.py file
 - Run the file from your terminal using python3 (e.g. "python3 hangman.py")
 - Play the game and have fun!
 
-###What this project does:
+### What this project does:
 
 Functions
 - setup function, defines a list of words and randomly selects one for the game
